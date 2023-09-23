@@ -1,2 +1,2 @@
 # Html-project
-click to visit website: https://github.com/Tamilprakash7/Html-project.git
+click to visit website:https://tamilprakash7.github.io/Html-project/
